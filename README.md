@@ -1,5 +1,5 @@
 # Proof of Skill
-
+live link=https://id-preview--76a5820d-6d6d-46c6-b98c-c5f9d363286d.lovable.app/?__lovable_receipt=mat_4tfbg7xdyz9qmt4jhb1eqg73z7
 3. Skills-based talent matching: match candidates to hiring partners by verified skills and project evidence, not by pedigree or referrals.
 create for me a project concerning about this
 
